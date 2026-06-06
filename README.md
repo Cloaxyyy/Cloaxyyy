@@ -58,7 +58,7 @@ Modern networking and infrastructure solutions.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,ts,js,python,nodejs,react,nextjs,vue,nuxt,mongodb,postgres,mysql,aws,azure,docker,firebase,figma,flutter,dotnet,android,bash&perline=11" />
+<img src="https://skillicons.dev/icons?i=rust,cpp,ts,js,python,nodejs,react,nextjs,vue,nuxt,mongodb,postgres,mysql,aws,bash&perline=11" />
 
 </div>
 
