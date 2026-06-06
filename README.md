@@ -1,10 +1,15 @@
+````md
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=1000&color=FF4FD8&center=true&vCenter=true&random=false&width=850&height=80&lines=Hi+👋,+I'm+Cloaxy;Creator+of+Tsundere;Backend+Developer;Building+Interwave;Open+Source+Enthusiast" alt="Typing SVG" />
+# 👋 Hi, I'm Cloaxy
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,30,35&text=Tsundere&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 ### 💜 Owner of Tsundere
 ### 🌊 Building Interwave
 ### ⚡ Backend Developer & Systems Engineer
+
+[![Discord](https://img.shields.io/badge/Discord-cloaxy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
 
@@ -12,39 +17,49 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Tsundere**
-- 🌊 Working on **Interwave**
-- 🌱 Learning **Rust**, **Modern C++**, and **Compiler Design**
-- 👯 Open to collaborating on interesting projects
-- 🤝 Looking for contributors and testers
-- 💬 Ask me about backend development, infrastructure, networking, or anything tech
-- 📫 Discord: **cloaxy**
+```yaml
+Name: Cloaxy
+Role: Backend/frontend Developer
+Current Project: Tsundere
+Secondary Project: Interwave
+Learning:
+  - Rust
+  - Modern C++
+  - Compiler Design
+````
+
+* 💜 Building **Tsundere**
+* 🌊 Working on **Interwave**
+* 🚀 Open Source Enthusiast
+* 👯 Open to collaboration
+* 💬 Ask me about anything
+* 📫 Discord: **cloaxy**
 
 ---
 
 ## 💜 Tsundere
 
-Tsundere is a modern developer ecosystem focused on:
+A modern development ecosystem focused on:
 
-- ⚡ Performance
-- 📦 Advanced Package Management
-- 🖥️ Cross-Platform Development
-- 🔧 Developer Experience
-- 🚀 High-Speed Tooling
+* ⚡ Performance
+* 📦 Package Management
+* 🖥️ Cross Platform Support
+* 🔧 Developer Experience
+* 🚀 High Speed Tooling
 
 ---
 
 ## 🌊 Interwave
 
-Building modern networking and infrastructure solutions for developers.
+Modern networking and infrastructure solutions.
 
 ---
 
-## 🛠 Languages & Technologies
+## 🛠 Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,ts,js,python,nodejs,react,nextjs,vue,nuxt,mongodb,postgres,mysql,aws,azure,docker,firebase,figma,flutter,dotnet,android,bash" />
+<img src="https://skillicons.dev/icons?i=rust,cpp,ts,js,python,nodejs,react,nextjs,vue,nuxt,mongodb,postgres,mysql,aws,azure,docker,firebase,figma,flutter,dotnet,android,bash&perline=11" />
 
 </div>
 
@@ -54,15 +69,15 @@ Building modern networking and infrastructure solutions for developers.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cloaxy&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cloaxyyy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Cloaxy&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Cloaxyyy&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cloaxy&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloaxyyy&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -74,10 +89,29 @@ Building modern networking and infrastructure solutions for developers.
 💜 Tsundere
 ├── Package Manager
 ├── Toolchain
-├── Cross-Platform Support
-└── Developer Ecosystem
+├── Cross Platform Support
+├── Developer Ecosystem
+└── Future .yuri Support
 
 🌊 Interwave
 ├── Infrastructure
 ├── Networking
 └── Cloud Services
+```
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Cloaxyyy\&label=Profile%20Views\&color=ff4fd8\&style=for-the-badge)
+
+### 💜 Tsundere • 🌊 Interwave
+
+*"Building tools developers actually enjoy using."*
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&height=120\&section=footer\&color=gradient\&customColorList=24,30,35)
+
+```
+```
