@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Cloaxy
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,30,35&text=Tsundere&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,30,35&text=Kiro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 ### ❤️ Vice President at Kiroai
 ### 🌊 Building Interwave
