@@ -4,7 +4,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,30,35&text=Tsundere&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-### 💜 Owner of Tsundere
+### ❤️ Vice President at Kiroai
 ### 🌊 Building Interwave
 ### ⚡ Backend Developer & Systems Engineer
 
@@ -19,7 +19,7 @@
 ```yaml
 Name: Cloaxy
 Role: Backend/frontend Developer
-Current Project: Tsundere
+Current Project: Kiro
 Secondary Project: Interwave
 Learning:
   - Rust
@@ -27,7 +27,7 @@ Learning:
   - Compiler Design
 ````
 
-* 💜 Building **Tsundere**
+* ❤️ Building **Kiro**
 * 🌊 Working on **Interwave**
 * 🚀 Open Source Enthusiast
 * 👯 Open to collaboration
@@ -36,15 +36,33 @@ Learning:
 
 ---
 
-## 💜 Tsundere
+## ❤️ Kiro
 
-A modern development ecosystem focused on:
+What is Kiro?
+Kiro is a desktop AI companion designed to help you stay focused, organized, and accountable.
 
-* ⚡ Performance
-* 📦 Package Management
-* 🖥️ Cross Platform Support
-* 🔧 Developer Experience
-* 🚀 High Speed Tooling
+Unlike traditional AI chatbots, Kiro understands your goals, remembers context, connects to the tools you already use, and helps you stay on track throughout the day.
+
+Features
+Focus & accountability reminders
+AI powered assistance
+Goal and habit tracking
+Smart notifications
+Browser, email, and calendar integrations
+Developer tool integrations
+Community plugin ecosystem
+Privacy first architecture
+
+Built With
+Rust (Desktop Core)
+TypeScript
+React
+Tauri
+Fastify
+PostgreSQL
+Docker
+
+join the discord at https://discord.gg/kiroai
 
 ---
 
@@ -85,12 +103,15 @@ Modern networking and infrastructure solutions.
 ## 🔥 Current Focus
 
 ```text
-💜 Tsundere
-├── Package Manager
-├── Toolchain
-├── Cross Platform Support
-├── Developer Ecosystem
-└── Future .yuri Support
+❤️ Kiro Assistant
+├── desktop AI companion
+├── Focus & accountability reminders
+├── AI powered assistance
+├── Goal and habit tracking
+└── Smart notifications
+└── Browser, email, and calendar integrations
+└── Developer tool integrations
+└── Privacy first architecture
 
 🌊 Interwave
 ├── Infrastructure
@@ -104,7 +125,7 @@ Modern networking and infrastructure solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Cloaxyyy\&label=Profile%20Views\&color=ff4fd8\&style=for-the-badge)
 
-### 💜 Tsundere • 🌊 Interwave
+### ❤️ Kiro • 🌊 Interwave
 
 *"Building tools developers actually enjoy using."*
 
